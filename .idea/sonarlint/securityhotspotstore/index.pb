@@ -1,0 +1,19 @@
+
+D
+constant/Constant.py,9\7\971f26443f9ac21162f80f36f53ed18a1bfe6e64
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+I
+train_and_authenticate.py,9\8\98401603823fbb88e02b3638235cc6ebfae02d1a
+\
+,.venv/Lib/site-packages/audioread/rawread.py,0\8\084e55be6cb3aeb332ad1b443daf870051f1eb1b
+9
+	ReadMe.md,a\2\a225a7e79496c5a1d847c78c3db651eb302ec867
+?
+labels/test.csv,d\8\d80dcb76c7fa8ebe30cc1501ddad0f97d41fc265
+F
+labels/test_labels.csv,8\3\83744e2c8d45c22058dc7aa13f50f58d7d89a234
+@
+labels/train.csv,6\7\6714243d13e35469dbf7c1103a7c49b103322872
+G
+labels/train_labels.csv,d\0\d0d995f7fef0783f65048bd5fe9197644fa3d1b3

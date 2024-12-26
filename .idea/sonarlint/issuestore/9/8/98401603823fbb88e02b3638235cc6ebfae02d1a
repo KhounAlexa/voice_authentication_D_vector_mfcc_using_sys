@@ -1,0 +1,14 @@
+
+‘python:S2208"GImport only needed names or import the module and then use its members.(Ñö´çşÿÿÿÿ8”ˆÔõ»2J$d1e9beb4-3298-4c0f-b7d2-8a2f90842709
+apython:S2772A"Remove this unneeded "pass".(ã‘Û¾8”ˆÔõ»2J$6e84e6a1-35d6-4671-8c70-88177c2559af
+Špython:S34572"EAdd replacement fields or use a normal string instead of an f-string.(—àÏ8”ˆÔõ»2J$75e7dcac-9862-439c-9aa3-5ca3b2b9dacc
+hpython:S125<"Remove this commented out code.(ñì¢ùÿÿÿÿ8”ˆÔõ»2J$a6f00291-6eff-433b-a229-ce46978c43f3
+spython:S1481E".Remove the unused local variable "start_time".(÷•à¿8”ˆÔõ»2J$29212f13-3f34-4bc1-8f9f-db506bc613b4
+apython:S2772d"Remove this unneeded "pass".(ã‘Û¾8”ˆÔõ»2J$c51f746d-967b-4972-82f8-ea9e2e98c2d8
+hpython:S125T"Remove this commented out code.(à¾Œ›ùÿÿÿÿ8”ˆÔõ»2J$021cfd3a-7d1f-4ebc-8fa0-d87dece3ff1e
+cpython:S125a"Remove this commented out code.(ƒÏÈŒ8”ˆÔõ»2J$70f586bf-b4a9-4177-ba58-f5ef54b9a9d2
+bpython:S2772¤"Remove this unneeded "pass".(ã‘Û¾8”ˆÔõ»2J$8fe26233-60b7-4b4b-9810-a03bb7e18475
+ipython:S125à"Remove this commented out code.(ü¬Óãøÿÿÿÿ8£ˆÔõ»2J$c5417410-5b76-4644-a0eb-0b3c9873f434
+dpython:S125„"Remove this commented out code.(©°“ó8£ˆÔõ»2J$fdbaf93d-d065-49e1-9349-9d21df9ac4d2
+upython:S1481¢"/Remove the unused local variable "test_loader".(’Á†Ó8£ˆÔõ»2J$88177a24-47a5-4702-907c-978b1cc7abb3
+…python:S1244À":Do not perform equality checks with floating point values.(õÎ¸Ëÿÿÿÿÿ8£ˆÔõ»2J$3d804c02-da92-47e0-a9e7-3b35a5eca7e6
